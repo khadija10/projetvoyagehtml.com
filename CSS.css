@@ -1,0 +1,117 @@
+
+h1,h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: both;
+}
+img{
+    display: block;
+    width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    border-radius: 5px 5px 5px 5px;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    height: 200px;
+    border-radius: 5px 5px 5px 5px;
+}
+#st{
+    width: 800px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(212, 197, 197, 0.658);
+    height: 750px;
+}
+.flo, .flo2{
+    float: left;
+    width: 360px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bgia{
+    background-image: url("20200225_083713.jpg");
+    background-size: cover;
+}
+#bgib{
+    background-image: url("Cristo_Redentor_Rio_de_Janeiro_4.jpg");
+    background-size: cover;
+}
+#bgiC{
+    background-image: url("795x447xjerusalem.jpg.pagespeed.ic.q_iffde9Ec.jfif");
+    background-size: cover;
+}
+#bgiz{
+    background-image: url(1.jfif);
+    background-size: cover;
+}
+#bgi{
+    background-image: url(Photo-5-1.jpg);
+    background-size: cover;
+}
+#bgiM{
+    background-image: url(Screenshot_20200227-121237_Gallery.jpg);
+    background-size: cover;
+}
+ul{
+    margin-top: 0px;
+    margin-bottom: -10px;
+    background-color: rgba(190, 94, 77, 0.808);
+}
+li{
+    display: inline-block;
+    margin-right: 0px;
+    margin-left: 25px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-family: fantasy;
+    color: white;
+}
+#tete{
+    height: 300px;
+    background-image: url(0bb3099858_50033981_ete-260811.jpg);
+    background-size: cover;
+}
+li:hover{
+    background-color:beige;
+}
+#bo{
+    background-image: url(bo.jpg);
+    height: 600px;
+    background-size: cover;
+    color: white;
+}
+form{
+    width: 350px;
+    height: 200px;
+}
+#pied{
+    background-color: rgb(114, 91, 91);
+    padding-top: 10px;
+}
+input[type="submit"]{
+    color: green;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    padding: 5px;
+    height: 30px;
+}
+#tt{
+    width: 1200px;
+    height: 750px;
+    display: block;
+    margin: auto;
+}
